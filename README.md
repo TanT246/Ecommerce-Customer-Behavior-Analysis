@@ -141,13 +141,14 @@ The analysis provides clear, actionable recommendations for improving marketing 
 ## Dashboard Screenshots
 
 ### Sales Dashboard
-![Sales Dashboard](images/Screenshot_2025-12-09_183103.png)
+![Sales Dashboard](Screenshot%202025-12-09%20183103.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/Screenshot_2025-12-09_183111.png)
+![Customer Dashboard](Screenshot%202025-12-09%20183111.png)
 
 ### Product Dashboard
-![Product Dashboard](images/Screenshot_2025-12-09_183119.png)
+![Product Dashboard](Screenshot%202025-12-09%20183119.png)
+
 
 
 
